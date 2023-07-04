@@ -1,0 +1,11 @@
+{
+  "_id" : "6474b3125f12486b880c6808",
+  "userId" : "898329438",
+  "username" : "0529",
+  "fullname" : "0529",
+  "email" : "1669759504@qq.com",
+  "password" : "$2a$10$VIbsvpA0SGf9Jir7CYnh6OnfacPnaigtXHle8HeqKTw/ysAmJJ.b6",
+  "verified" : true,
+  "_class" : "coachingmateanalytics.coachingmate.entity.UserPartner",
+
+}
